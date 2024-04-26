@@ -1,6 +1,6 @@
 # deep_blue 
 Our project is based on how to find the lost ships and submarine
-it is find using ROV principle, Sidescan Sonar, Magnetometer,sonardyne ranger 2 usbl
+it is find using ROV principle, Sidescan Sonar, Magnetometer,sonardyne ranger 2 usbl.
 our project costs  15 LAKH so we have attached the animation of our complete project , kindly refer this for evaluation
 
 
